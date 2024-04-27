@@ -1,0 +1,53 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.header{
+
+    margin:100px;
+    border: solid skyblue 5px;
+    height: 800px;
+    width: 1200px; 
+    background-color: goldenrod;
+   
+  
+}
+.outerbox{
+
+    display: flex;
+}
+.header_one{
+
+    background-color: black;
+    color: white;
+    padding: 10px;
+    height: 40px;
+    width: 100px;
+    border-radius: 10px;
+ 
+}
+h3{
+
+    border-bottom: solid black 3px;
+    width: 200px;
+   
+}
+
+.gimage img{
+
+    height: 250px;
+    width: 200px;
+   
+    margin: 10px;
+    border: solid black 3px;
+}
+.image-gallery{
+
+     display: flex;
+     width: 80%;
+     margin-left: 30px;
+     padding-top: 20px;
+     flex-wrap: wrap;
+     padding-left: 100px;
+ 
+}
